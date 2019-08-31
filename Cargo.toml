@@ -4,7 +4,7 @@ version = "0.1.0"
 authors = ["thiolliere <gui.thiolliere@gmail.com>"]
 edition = "2018"
 license = "Unlicense"
-repository = "https://github.com/diwic/alsa-sys"
+repository = "https://github.com/thiolliere/nous"
 
 [dependencies]
 nannou = "0.10"
