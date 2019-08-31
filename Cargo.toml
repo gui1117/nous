@@ -1,0 +1,12 @@
+[package]
+name = "nannoussai"
+version = "0.1.0"
+authors = ["thiolliere <gui.thiolliere@gmail.com>"]
+edition = "2018"
+license = "Unlicense"
+repository = "https://github.com/diwic/alsa-sys"
+
+[dependencies]
+nannou = "0.10"
+nannou_audio = "0.2"
+enum-iterator = "0.3"
