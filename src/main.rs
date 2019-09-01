@@ -17,6 +17,8 @@ const MODEL_DURATION: u64 = 3;
 
 // TODO TODO:
 // * faire un son en fonction des couleurs et des directions
+// * fix dl issue: maybe we only want blocks to be aligned or half out of screen or maybe we want
+// the 3 possibilies
 
 fn main() {
 	nannou::app(init)
