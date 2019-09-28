@@ -1,5 +1,5 @@
 [package]
-name = "nannoussai"
+name = "nous"
 version = "0.1.0"
 authors = ["thiolliere <gui.thiolliere@gmail.com>"]
 edition = "2018"
